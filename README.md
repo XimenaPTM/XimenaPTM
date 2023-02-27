@@ -30,6 +30,6 @@
 <h3> 🤝🏻 Connect with Me </h3>
 
 <a href="https://www.linkedin.com/in/ximenatrujillom/">
-  <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt= "https://www.linkedin.com/in/ximenatrujillom/" height="15" width="15">
+  <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt= "https://www.linkedin.com/in/ximenatrujillom/" height="25" width="25">
 </a>
 
