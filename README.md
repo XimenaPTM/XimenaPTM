@@ -19,6 +19,7 @@
 <h3>Tech Stack</h3>
 
  💻 &nbsp; Python | MySQL | Tableau
+ 
  🔧 &nbsp; Git 
 
 
