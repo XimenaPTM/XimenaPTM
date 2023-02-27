@@ -6,6 +6,7 @@
 
 <!--
 **XimenaPTM/XimenaPTM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!--
 
 - 🤔 &nbsp; A data analyst junior, motivated to lear and give my best.
 
@@ -26,24 +27,6 @@
 <h3>🛠 To Learn</h3>
 - 📊 &nbsp; Power BI
 - 🛢 &nbsp; MongoDB
-
-
-<!--
-
-
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
-### Hi there 👋<h2> I'm Shivam</h2>
-
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 
 <img src="https://github.com/nirala69/nirala69/blob/master/70804f7e25b11f29db904f2fa7b4cd9d.gif" width="350" align='right'>
