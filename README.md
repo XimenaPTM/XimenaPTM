@@ -23,14 +23,6 @@
 
 
 
-<h3>🛠 To Learn</h3>
-
-- 📊 &nbsp; Power BI
-- 🛢 &nbsp; MongoDB
-
-
-
-
 <h3> 🤝🏻 Connect with Me </h3>
 
 <a href="https://www.linkedin.com/in/ximenatrujillom/">
