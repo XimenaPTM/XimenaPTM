@@ -13,6 +13,8 @@
 - 🔄 &nbsp; I have experience working with Agile methodology.
 
 
+<img src="https://dribbble.com/shots/1636997-Desk" width="350" align='right'>
+
 
 <h3>🛠 Tech Stack</h3>
 
@@ -27,8 +29,6 @@
 - 🛢 &nbsp; MongoDB
 
 
-
-<img src="https://github.com/nirala69/nirala69/blob/master/70804f7e25b11f29db904f2fa7b4cd9d.gif" width="350" align='right'>
 
 
 <h3> 🤝🏻 Connect with Me </h3>
