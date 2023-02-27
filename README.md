@@ -1,16 +1,16 @@
 ## Hello everyone 👋, I am Ximena 👩‍💻
 
-<h3> 👨🏻•💻 About Me </h3>
+<h3> 🙆‍💻 About Me </h3>
 
-- 🙆‍♀️ &nbsp; A data analyst, motivated to lear and give my best.
+- 🤗 &nbsp; I am a data analyst, motivated to learn and give my best.
 
 - 🔭 &nbsp; I have just finished a Data Analyst bootcamp and I am ready to put all the knowledge I have acquired into practice.
 
-- 🎓 &nbsp; Studyed Sociology, a master degree in Antropology and a master degree in Education. 
+- 🎓 &nbsp; I studyed Sociology, a master degree in Antropology and a master degree in Education. 
 
-- 🌱 &nbsp; Learning about Power BI, MongoDB.
+- 🌱 &nbsp; I am learning about Power BI, MongoDB.
 
-- 🔄 &nbsp; Experience working with Agile methodology.
+- 🔄 &nbsp; I have experience working with Agile methodology.
 
 
 <h3>🛠 Tech Stack</h3>
@@ -29,5 +29,4 @@
 
 <h3> 🤝🏻 Connect with Me </h3>
 
-
-<a href="www.linkedin.com/in/ximenatrujillom"></a>
+<a href="www.linkedin.com/in/ximenatrujillom">
