@@ -30,6 +30,6 @@
 <h3> 🤝🏻 Connect with Me </h3>
 
 <a href="www.linkedin.com/in/ximenatrujillom">
-  <img alt="LinkedIn" src="www.linkedin.com/in/ximenatrujillom">
+  <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Ximena Trujillo Morillo's LinkedIn Profile"
 </a>
 
