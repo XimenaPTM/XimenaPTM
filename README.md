@@ -1,12 +1,7 @@
-### Hello everyone 👋, 
-
-#  I am Ximena 👩‍💻
+## Hello everyone 👋,
+##I am Ximena 👩‍💻
 
 <h3> 👨🏻•💻 About Me </h3>
-
-<!--
-**XimenaPTM/XimenaPTM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-<!--
 
 - 🤔 &nbsp; A data analyst junior, motivated to lear and give my best.
 
