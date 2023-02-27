@@ -1,17 +1,16 @@
-## Hello everyone 👋,
-##I am Ximena 👩‍💻
+## Hello everyone 👋, I am Ximena 👩‍💻
 
 <h3> 👨🏻•💻 About Me </h3>
 
-- 🤔 &nbsp; A data analyst junior, motivated to lear and give my best.
+- 🙆‍♀️ &nbsp; A data analyst, motivated to lear and give my best.
 
 - 🔭 &nbsp; I have just finished a Data Analyst bootcamp and I am ready to put all the knowledge I have acquired into practice.
 
-- 🎓 &nbsp; Studyed Sociology, a master degree in Antropology ans a master degree in Education. 
+- 🎓 &nbsp; Studyed Sociology, a master degree in Antropology and a master degree in Education. 
 
 - 🌱 &nbsp; Learning about Power BI, MongoDB.
 
-- ✍️ &nbsp; Pursuing Web Development as hobbies/side hustles.
+- 🔄 &nbsp; Experience working with Agile methodology.
 
 
 <h3>🛠 Tech Stack</h3>
