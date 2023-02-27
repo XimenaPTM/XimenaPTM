@@ -29,4 +29,4 @@
 
 <h3> 🤝🏻 Connect with Me </h3>
 
-<a href="www.linkedin.com/in/ximenatrujillom">
+<a href="www.linkedin.com/in/ximenatrujillom"><img alt="LinkedIn" src="www.linkedin.com/in/ximenatrujillom"></a>
