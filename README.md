@@ -1,6 +1,6 @@
 ## Hello everyone 👋, I am Ximena 👩‍💻
 
-<h3> 🙆‍💻 About Me </h3>
+<h4> 🙆‍💻 About Me </h4>
 
 - 🤗 &nbsp; I am a data analyst, motivated to learn and give my best.
 
