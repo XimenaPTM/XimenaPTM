@@ -1,6 +1,6 @@
 ## Hello everyone 👋, I am Ximena 👩‍💻
 
-<h3> 🙆‍💻 About Me </h3>
+<h3> About Me </h3>
 
  🤗 &nbsp; I am a data analyst, motivated to learn and give my best.
 
@@ -16,14 +16,14 @@
 <img src="https://cdn.dribbble.com/users/355439/screenshots/1636997/media/a16042d19ae1db48e7f02303725a6ee4.gif" width="350" align='right'>
 
 
-<h3>🛠 Tech Stack</h3>
+<h3>Tech Stack</h3>
 
  💻 &nbsp; Python | MySQL | Tableau
  🔧 &nbsp; Git 
 
 
 
-<h3> 🤝🏻 Connect with Me </h3>
+<h3> Connect with Me </h3>
 
 <a href="https://www.linkedin.com/in/ximenatrujillom/">
   <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt= "https://www.linkedin.com/in/ximenatrujillom/" height="25" width="25">
