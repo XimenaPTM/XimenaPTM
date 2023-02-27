@@ -7,19 +7,20 @@
 
 - 🔭 &nbsp; I have just finished a Data Analyst bootcamp and I am ready to put all the knowledge I have acquired into practice.
 
-- 🎓 &nbsp; Studyed Sociology, a máster degree in Antropology ans a mçaster degree in Education. 
+- 🎓 &nbsp; Studyed Sociology, a master degree in Antropology ans a master degree in Education. 
 
-- 🌱 &nbsp; Learning about Cloud Tech, Systems Design.
+- 🌱 &nbsp; Learning about Power BI, MongoDB.
 
 - ✍️ &nbsp; Pursuing Web Development as hobbies/side hustles.
 
-<h3>🛠 Tech Stack</h3>
 
+<h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; Python | MySQL | Tableau
 - 🔧 &nbsp; Git 
 
 <h3>🛠 To Learn</h3>
+
 - 📊 &nbsp; Power BI
 - 🛢 &nbsp; MongoDB
 
