@@ -13,7 +13,7 @@
 - 🔄 &nbsp; I have experience working with Agile methodology.
 
 
-<img src="https://dribbble.com/shots/1636997-Desk" width="350" align='right'>
+<img src="https://cdn.dribbble.com/users/355439/screenshots/1636997/media/a16042d19ae1db48e7f02303725a6ee4.gif" width="350" align='right'>
 
 
 <h3>🛠 Tech Stack</h3>
