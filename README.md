@@ -4,7 +4,7 @@
 
  🤗 &nbsp; I am a data analyst, motivated to learn and give my best.
 
- 🔭 &nbsp; I have just finished a Data Analyst bootcamp and I am ready to put all the knowledge I have acquired into practice.
+ 🔭 &nbsp; I am a Data Analyst, ready to put all the knowledge I have acquired into practice.
 
  🎓 &nbsp; I studyed Sociology, a master degree in Antropology and a master degree in Education. 
 
