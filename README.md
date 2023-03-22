@@ -2,7 +2,6 @@
 
 <h3> About Me </h3>
 
- 🤗 &nbsp; I am a data analyst, motivated to learn and give my best.
 
  🔭 &nbsp; I am a Data Analyst, ready to put all the knowledge I have acquired into practice.
 
