@@ -11,11 +11,15 @@ Welcome to my Github profile, I am Ximena 👩‍💻
 
 <h3> Projects </h3>
 
+**Personal**
+- [ML-Linear-Regression-Bike-Sharing:](https://github.com/XimenaPTM/ML-Linear-Regression-Bike-Sharing) Bike Rental Predicction (Pandas, Numpy, Scikit-learn, Tableau).
+- ETL-API-NBA-Database: Data extraction and creation of a Basketball database (in process).
+
+**Data Analytics Bootcamp"
+
 - [SQL-Database:](https://github.com/XimenaPTM/SQL-Database-project-Adalab-promo-C-modulo-1) XML, TXT and SQL files and data management. (Pandas, Numpy,MySQL).
 - [Data-datos:](https://github.com/XimenaPTM/Data-datos-project2-Adalab-promo-c-modulo-2-team4) Data science job market (Pandas, Numpy, Requests, Matplotlib, Seaborn).
 - [EDA-Limpieza-ETL:](https://github.com/XimenaPTM/EDA-Limpieza-ETL-Adalab-promoC-mod2)  Shark attacks (Pandas, Numpy, Requests, Matplotlib, Seaborn).
-- [ML-Linear-Regression-Bike-Sharing:](https://github.com/XimenaPTM/ML-Linear-Regression-Bike-Sharing) Bike Rental Predicction (Pandas, Numpy, Scikit-learn, Tableau).
-- ETL-API-NBA-Database: Data extraction and creation of a Basketball database(in process).
 
 <h3> About Me </h3>
 
@@ -27,12 +31,11 @@ Welcome to my Github profile, I am Ximena 👩‍💻
 
 
 
-
 <h3> Connect with Me </h3>
-📧 ximena.trujillo.morillo@gmail.com / 
 
 <a href="https://www.linkedin.com/in/ximenatrujillom/">
  
   <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt= "https://www.linkedin.com/in/ximenatrujillom/" height="25" width="25">
 </a>
 
+📧 ximena.trujillo.morillo@gmail.com
