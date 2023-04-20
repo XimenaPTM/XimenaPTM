@@ -32,7 +32,7 @@ Welcome to my Github profile, I am Ximena 👩‍💻
 
 
 <h3> Connect with Me </h3>
-📧 ximena.trujillo.morillo@gmail.com
+📧 ximena.trujillo.morillo@gmail.com / 
 
 <a href="https://www.linkedin.com/in/ximenatrujillom/">
  
