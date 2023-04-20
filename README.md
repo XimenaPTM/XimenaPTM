@@ -10,8 +10,8 @@ Welcome to my Github profile, I am Ximena 👩‍💻
 <h3> Projects </h3>
 
 - [SQL-Database:](https://github.com/XimenaPTM/SQL-Database-project-Adalab-promo-C-modulo-1) XML, TXT and SQL files and data management. (Pandas, Numpy,MySQL).
-- Data-datos: Data science job market (Pandas, Numpy, Requests, Matplotlib, Seaborn).
-- EDA-Limpieza-ETL: Shark attacks (Pandas, Numpy, Requests, Matplotlib, Seaborn).
+- [Data-datos:](https://github.com/XimenaPTM/Data-datos-project2-Adalab-promo-c-modulo-2-team4) Data science job market (Pandas, Numpy, Requests, Matplotlib, Seaborn).
+- [EDA-Limpieza-ETL:] (https://github.com/XimenaPTM/EDA-Limpieza-ETL-Adalab-promoC-mod2)  Shark attacks (Pandas, Numpy, Requests, Matplotlib, Seaborn).
 - ML-Linear-Regression-Bike-Sharing: Bike Rental Predicction (Pandas, Numpy, Scikit-learn, Tableau).
 - ETL-API-NBA-Database: Data extraction and creation of a Basketball database(in process).
 
