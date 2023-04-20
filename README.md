@@ -1,16 +1,19 @@
-## Hello everyone! 👋 It`s Ximena 👩‍💻
+## Hello everyone 👋, It's Ximena 👩‍💻
+
+Welcome to my Github profile.
 
 <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--2bZIjPGC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/d4tvukbt5mra37cvwklk.gif" width="350" align='right'>
 
 
  💻 **Tech Stack:** Python | SQL | Tableau | Power Bi
  
- 🔧 **My work:**  Designing and implementing ETL and EDA data pipelines, building machine learning models, and creating business intelligence dashboards.
+ 🔧 **My work:** I work in ETL and EDA data pipelines, machine learning and creating dashboards.
+ 
+ 💁 **Personal skills:** Analytical thinking, problem-solving, attention to detail, effective communication.
 
 ## Projects
 
 **Personal**
-
 - [ML-Linear-Regression-Bike-Sharing:](https://github.com/XimenaPTM/ML-Linear-Regression-Bike-Sharing) Bike Rental Predicction (Pandas, Numpy, Scikit-learn, Tableau).
 - ETL-API-NBA-Database: Data extraction and creation of a Basketball database (in process).
 
@@ -20,7 +23,7 @@
 - [Data-datos:](https://github.com/XimenaPTM/Data-datos-project2-Adalab-promo-c-modulo-2-team4) Data science job market (Pandas, Numpy, Requests, Matplotlib, Seaborn).
 - [EDA-Limpieza-ETL:](https://github.com/XimenaPTM/EDA-Limpieza-ETL-Adalab-promoC-mod2)  Shark attacks (Pandas, Numpy, Requests, Matplotlib, Seaborn).
 
-## About Me 
+## About Me
 
  🔭 &nbsp; I am a junior Data Analyst with experience in social research, analysing quantitative and qualitative data.
 
