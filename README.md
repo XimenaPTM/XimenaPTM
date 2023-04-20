@@ -3,13 +3,13 @@
 Welcome to my Github profile, I am Ximena 👩‍💻
 
 
- 💻 Tech Stack: Python | SQL | Tableau | Power Bi
+ 💻 **Tech Stack:** Python | SQL | Tableau | Power Bi
  
- 🔧 My work : ETL and EDA data pipelines, machine learning and business intelligence dashboards.
+ 🔧 **My work:** ETL and EDA data pipelines, machine learning and business intelligence dashboards.
 
 <h3> Projects </h3>
 
-- SQL-Database: XML, TXT and SQL files and data management. (Pandas, Numpy,MySQL).
+- [SQL-Database:](https://github.com/XimenaPTM/SQL-Database-project-Adalab-promo-C-modulo-1) XML, TXT and SQL files and data management. (Pandas, Numpy,MySQL).
 - Data-datos: Data science job market (Pandas, Numpy, Requests, Matplotlib, Seaborn).
 - EDA-Limpieza-ETL: Shark attacks (Pandas, Numpy, Requests, Matplotlib, Seaborn).
 - ML-Linear-Regression-Bike-Sharing: Bike Rental Predicction (Pandas, Numpy, Scikit-learn, Tableau).
