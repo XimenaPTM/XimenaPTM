@@ -15,10 +15,7 @@ Welcome to my Github profile, I am Ximena 👩‍💻
 - ML-Linear-Regression-Bike-Sharing: Bike Rental Predicction (Pandas, Numpy, Scikit-learn, Tableau).
 - ETL-API-NBA-Database: Data extraction and creation of a Basketball database(in process).
 
-
-
 <h3> About Me </h3>
-
 
  🔭 &nbsp; I am a junior Data Analyst with experience in social research, analysing quantitative and qualitative data.
 
@@ -36,7 +33,10 @@ Welcome to my Github profile, I am Ximena 👩‍💻
 
 <h3> Connect with Me </h3>
 
+📧 ximena.trujillo.morillo@gmail.com
+
 <a href="https://www.linkedin.com/in/ximenatrujillom/">
+ 
   <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt= "https://www.linkedin.com/in/ximenatrujillom/" height="25" width="25">
 </a>
 
