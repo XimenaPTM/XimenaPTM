@@ -7,7 +7,7 @@
  
  🔧 **My work:**  Designing and implementing ETL and EDA data pipelines, building machine learning models, and creating business intelligence dashboards.
 
-### Projects
+## Projects
 
 **Personal**
 
