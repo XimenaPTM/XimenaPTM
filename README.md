@@ -20,14 +20,14 @@
 - [Data-datos:](https://github.com/XimenaPTM/Data-datos-project2-Adalab-promo-c-modulo-2-team4) Data science job market (Pandas, Numpy, Requests, Matplotlib, Seaborn).
 - [EDA-Limpieza-ETL:](https://github.com/XimenaPTM/EDA-Limpieza-ETL-Adalab-promoC-mod2)  Shark attacks (Pandas, Numpy, Requests, Matplotlib, Seaborn).
 
-<h3> About Me </h3>
+## About Me 
 
  🔭 &nbsp; I am a junior Data Analyst with experience in social research, analysing quantitative and qualitative data.
 
  🎓 &nbsp; I studyed Sociology, a master degree in Antropology, a master degree in Education and a Bootcamp in Data Analytics. I love learning.
 
 
-<h3> Connect with Me </h3>
+## Connect with Me
 
 <a href="https://www.linkedin.com/in/ximenatrujillom/">
  
