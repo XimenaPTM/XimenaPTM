@@ -2,7 +2,7 @@
 
 Welcome to my Github profile, I am Ximena 👩‍💻
 
-<img src="https://cdn.dribbble.com/users/355439/screenshots/1636997/media/a16042d19ae1db48e7f02303725a6ee4.gif" width="350" align='right'>
+<img src="[https://cdn.dribbble.com/users/355439/screenshots/1636997/media/a16042d19ae1db48e7f02303725a6ee4.gif](https://res.cloudinary.com/practicaldev/image/fetch/s--2bZIjPGC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/d4tvukbt5mra37cvwklk.gif)" width="350" align='right'>
 
 
  💻 **Tech Stack:** Python | SQL | Tableau | Power Bi
