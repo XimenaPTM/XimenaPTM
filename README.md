@@ -5,7 +5,7 @@
 
  💻 **Tech Stack:** Python | SQL | Tableau | Power Bi
  
- 🔧 **My work:** I work in ETL and EDA data pipelines, machine learning and creating dashboards.
+ 📈 **My work:** I work in ETL and EDA data pipelines, machine learning and creating dashboards.
  
  💁 **Personal skills:** Analytical thinking, problem-solving, attention to detail, effective communication.
 
