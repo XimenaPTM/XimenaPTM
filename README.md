@@ -15,7 +15,7 @@ Welcome to my Github profile, I am Ximena 👩‍💻
 - [ML-Linear-Regression-Bike-Sharing:](https://github.com/XimenaPTM/ML-Linear-Regression-Bike-Sharing) Bike Rental Predicction (Pandas, Numpy, Scikit-learn, Tableau).
 - ETL-API-NBA-Database: Data extraction and creation of a Basketball database (in process).
 
-**Data Analytics Bootcamp"
+**Data Analytics Bootcamp**
 
 - [SQL-Database:](https://github.com/XimenaPTM/SQL-Database-project-Adalab-promo-C-modulo-1) XML, TXT and SQL files and data management. (Pandas, Numpy,MySQL).
 - [Data-datos:](https://github.com/XimenaPTM/Data-datos-project2-Adalab-promo-c-modulo-2-team4) Data science job market (Pandas, Numpy, Requests, Matplotlib, Seaborn).
@@ -26,9 +26,6 @@ Welcome to my Github profile, I am Ximena 👩‍💻
  🔭 &nbsp; I am a junior Data Analyst with experience in social research, analysing quantitative and qualitative data.
 
  🎓 &nbsp; I studyed Sociology, a master degree in Antropology, a master degree in Education and a Bootcamp in Data Analytics. I love learning.
-
- 🔄 &nbsp; I have experience working with Agile methodology.
-
 
 
 <h3> Connect with Me </h3>
