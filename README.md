@@ -1,13 +1,11 @@
-## Hello everyone 👋, 
-
-Welcome to my Github profile, I am Ximena 👩‍💻
+## Hello everyone 👋, It,s Ximena 👩‍💻
 
 <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--2bZIjPGC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/d4tvukbt5mra37cvwklk.gif" width="350" align='right'>
 
 
  💻 **Tech Stack:** Python | SQL | Tableau | Power Bi
  
- 🔧 **My work:** ETL and EDA data pipelines, machine learning and business intelligence dashboards.
+ 🔧 **My work:**  Designing and implementing ETL and EDA data pipelines, building machine learning models, and creating business intelligence dashboards.
 
 <h3> Projects </h3>
 
