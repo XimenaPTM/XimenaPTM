@@ -27,7 +27,7 @@
 
  🎓 &nbsp; I studyed Sociology, a master degree in Antropology, a master degree in Education and a Bootcamp in Data Analytics. I love learning.
 
-I love nature, travel and eating.
+🏕️ I enjoy nature, travelling and eating.
 
 ## CONNECT WITH ME
 
