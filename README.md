@@ -7,7 +7,7 @@
  
  📈 **My work:** I work in ETL and EDA data pipelines, machine learning and creating dashboards.
  
- 💁 **Personal skills:** Analytical thinking, problem-solving, attention to detail, effective communication.
+ 💁 **Soft skills:** Analytical thinking, problem-solving, attention to detail, effective communication.
 
 ## PROJECTS
 
