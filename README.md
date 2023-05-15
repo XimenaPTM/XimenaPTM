@@ -13,7 +13,7 @@
 
 **Personal**
 - [ML-Linear-Regression-Bike-Sharing:](https://github.com/XimenaPTM/ML-Linear-Regression-Bike-Sharing) Bike Rental Predicction (Pandas, Numpy, Scikit-learn, Tableau).
-- ETL-API-NBA-Database: Data extraction and creation of a Basketball database (in process).
+- [ETL-API-NBA-Database:](https://github.com/XimenaPTM/ETL_API_NBA-SQL-Database) Data extraction and creation of a Basketball database.
 
 **Data Analytics Bootcamp**
 
