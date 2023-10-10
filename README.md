@@ -19,7 +19,7 @@
 
 - [SQL-Database:](https://github.com/XimenaPTM/SQL-Database-project-Adalab-promo-C-modulo-1) XML, TXT and SQL files and data management. (Pandas, Numpy,MySQL).
 - [Data-datos:](https://github.com/XimenaPTM/Data-datos-project2-Adalab-promo-c-modulo-2-team4) Data science job market (Pandas, Numpy, Requests, Matplotlib, Seaborn).
-- [Linear regression - Developing countries & Logistic regression - cardiac diseases:](https://github.com/XimenaPTM/Linear-Regression-and-Logistic-Regression-Adalab-Promo-C-modulo) Data science job market (Pandas, Numpy, Sklearn, Matplotlib, Seaborn).
+- [Linear regression-Developing Countries & Logistic regression-Cardiac Diseases:](https://github.com/XimenaPTM/Linear-Regression-and-Logistic-Regression-Adalab-Promo-C-modulo) Data science job market (Pandas, Numpy, Sklearn, Matplotlib, Seaborn).
 - [EDA-Limpieza-ETL:](https://github.com/XimenaPTM/EDA-Limpieza-ETL-Adalab-promoC-mod2)  Shark attacks (Pandas, Numpy, Requests, Matplotlib, Seaborn).
 
 ## ABOUT ME
